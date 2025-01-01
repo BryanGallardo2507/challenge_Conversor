@@ -23,7 +23,7 @@ public class Principal {
             int eleccion = lectura.nextInt();
 
             if (eleccion == 0) {
-                System.out.println("Saliendo del programa...");
+                System.out.println("\nSaliendo del programa...");
                 break;
             }
 
@@ -48,8 +48,6 @@ public class Principal {
                     break;
                 case 6:
                     sm.convertirMoneda("COP","HNL",cantidadConvertir);
-                    break;
-                case 0:
                     break;
             }
             System.out.println("****************************\n");
