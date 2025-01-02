@@ -15,8 +15,8 @@ Este proyecto es una aplicacion de java que que permite convertir valores entre 
 - **HTTP Client de Java**: Para realizar solicitudes HTTP a la API.
 
 ## Funcionalidades
--Soporte para varias monedas (ejemplo: USD, EUR, HNL, ARS, COP, entre otras).
--Interfaz de consola fácil de usar.
+- Soporte para varias monedas (ejemplo: USD, EUR, HNL, ARS, COP, entre otras).
+- Interfaz de consola fácil de usar.
 
 ## Uso
 1. Al iniciar el programa, se mostrará un menú para seleccionar las monedas de origen y destino.
@@ -24,9 +24,9 @@ Este proyecto es una aplicacion de java que que permite convertir valores entre 
 3. El programa mostrará el resultado de la conversión con base en las tasas de cambio actuales.
 
 ##Datos Personales del Autor:
-Nombre: Bryan Daniel Gallardo Rodrigues
-Correo: bryangallardo2550@gmail.com
-GitHub: BryanGallardo2507
+ Nombre: Bryan Daniel Gallardo Rodrigues
+ Correo: bryangallardo2550@gmail.com
+ GitHub: BryanGallardo2507
 
 
 
