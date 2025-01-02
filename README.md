@@ -24,9 +24,9 @@ Este proyecto es una aplicacion de java que que permite convertir valores entre 
 3. El programa mostrará el resultado de la conversión con base en las tasas de cambio actuales.
 
 ## Datos Personales del Autor:
- Nombre: Bryan Daniel Gallardo Rodrigues
- Correo: bryangallardo2550@gmail.com
- GitHub: BryanGallardo2507
+ **Nombre**: Bryan Daniel Gallardo Rodrigues
+ **Correo**: bryangallardo2550@gmail.com
+ **GitHub**: BryanGallardo2507
 
 
 
